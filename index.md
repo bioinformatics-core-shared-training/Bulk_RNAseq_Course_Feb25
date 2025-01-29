@@ -1,6 +1,6 @@
 # Introduction to Bulk RNA-seq data analysis
-### 12, 19, 26 Nov 2024
-#### In person
+### 3, 7, 10 Feb 2025
+#### Online
 #### Bioinformatics Training Facility, Craik-Marshall Building, Downing Site, University of Cambridge
 
 ![](Bulk_RNAseq_Course_Base/images/CRUK_Cambridge_Major_Centre_logo.jpg)

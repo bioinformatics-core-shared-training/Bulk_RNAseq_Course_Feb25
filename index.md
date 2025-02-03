@@ -66,7 +66,7 @@ differential expression analysis of RNA-seq data.
 
   - [Practical](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration.pdf))
   - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration_solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration_solutions.pdf)) 
-  <!-- - [Live Script](live_scripts/20240621_initial_exploration.R) -->
+  - [Live Script](live_scripts/DataExploration_Ramy.R) 
 
 
 ### Day 2

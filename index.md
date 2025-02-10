@@ -80,7 +80,7 @@ differential expression analysis of RNA-seq data.
 11:30 - 17:30 [Linear Models in R and DESeq2 (Slides)](Bulk_RNAseq_Course_Base/additional_scripts_and_materials/07_Statistics_2.pdf) - Abbi
 
   - [Practical - Differential Expression for RNA-seq](Bulk_RNAseq_Course_Base/Markdowns/08_DE_analysis_with_DESeq2.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/08_DE_analysis_with_DESeq2.pdf)) - Ulrika
-  <!-- - [practical solutions](Bulk_RNAseq_Course_Base/Markdowns/08_DE_analysis_with_DESeq2_solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/08_DE_analysis_with_DESeq2_solutions.pdf)) -->
+   - [practical solutions](Bulk_RNAseq_Course_Base/Markdowns/08_DE_analysis_with_DESeq2_solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/08_DE_analysis_with_DESeq2_solutions.pdf)) 
   <!-- - [live script](live_scripts/DESeq2_script.R)  -->
   
   -  [Linear Models in R and DESeq2 (Worksheet)](Bulk_RNAseq_Course_Base/Markdowns/07_Linear_Models.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/07_Linear_Models.pdf))  
@@ -103,15 +103,15 @@ differential expression analysis of RNA-seq data.
 11:00 - 12.30 [Visualisation differential expression results](Bulk_RNAseq_Course_Base/Markdowns/10_Data_Visualisation_Slides.html) - Jiayin
 
    - [Practical](Bulk_RNAseq_Course_Base/Markdowns/10_Data_Visualisation.html)
-  <!-- - [practical solutions](Bulk_RNAseq_Course_Base/Markdowns/10_Data_Visualisation_solutions.html) -->
+   - [practical solutions](Bulk_RNAseq_Course_Base/Markdowns/10_Data_Visualisation_solutions.html) 
   <!-- - [live script](live_scripts/visualisation.R) -->
 
 12.30 - 13.30 Lunch
 
 13.30 - 16:30  [Gene-set testing](Bulk_RNAseq_Course_Base/Markdowns/11_Gene_set_testing_introduction.html) - Abbi
    - [Practical (html)](Bulk_RNAseq_Course_Base/Markdowns/11_Gene_set_testing.html) [(pdf)](Bulk_RNAseq_Course_Base/Markdowns/11_Gene_set_testing.pdf)
-  <!-- - [Practical solutions (html)](Bulk_RNAseq_Course_Base/Markdowns/11_Gene_set_testing_solutions.html) (pdf)](Bulk_RNAseq_Course_Base/Markdowns/11_Gene_set_testing_solutions.pdf) -->
-  <!-- - [Live Script](live_scripts/gene_set_testing.R) -->
+   - [Practical solutions (html)](Bulk_RNAseq_Course_Base/Markdowns/11_Gene_set_testing_solutions.html) (pdf)](Bulk_RNAseq_Course_Base/Markdowns/11_Gene_set_testing_solutions.pdf) 
+   - [Live Script](live_scripts/GeneSet.R) 
 
 
 ## Data, software and materials
